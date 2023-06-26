@@ -12,7 +12,7 @@
 - **Current Position:** Ph.D. Student at National Tsing Hua University
 - **Research Interests:** Star and Planet Formation
 
-## 📃 Featured First-Author Publications
+## 📃 Featured Publications
 - **[Accretion Flows or Outflow Cavities? Uncovering the Gas Dynamics around Lupus 3-MMS](https://iopscience.iop.org/article/10.3847/1538-4357/ac382b)**\
   <sup>Thieme et al. 2022, The Astrophysical Journal, Volume 925, Issue 1, id.32, 18 pp.<sup>
 
