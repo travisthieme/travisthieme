@@ -17,32 +17,32 @@
   <sup>Thieme et al. 2022, The Astrophysical Journal, Volume 925, Issue 1, id.32, 18 pp.<sup>
 
 ## 🏛️ Current Affiliations and Collaborations
-<a href="http://www.astr.nthu.edu.tw/?Lang=en" target="_blank"><img height="80" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/NTHU_Round_Seal.svg/2560px-NTHU_Round_Seal.svg.png" title="NTHU"></a>&emsp;
+<a href="http://www.astr.nthu.edu.tw/?Lang=en" target="_blank"><img height="120" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/NTHU_Round_Seal.svg/2560px-NTHU_Round_Seal.svg.png" title="NTHU"></a>&emsp;
 
 ## 🛠️ Languages and Tools
 <div style="height: fit-content; padding-top: 5px">
 <a href="https://python.org/" target="_blank">
-  <img height="40" src="https://cdn.simpleicons.org/python" title="Python">
+  <img height="30" src="https://cdn.simpleicons.org/python" title="Python">
 </a>
 <a href="https://www.latex-project.org/" target="_blank">
-  <img height="40" src="https://cdn.simpleicons.org/latex" title="LaTeX">
+  <img height="30" src="https://cdn.simpleicons.org/latex" title="LaTeX">
 </a>
 <a href="https://jupyter.org/" target="_blank">
-  <img height="40" src="https://cdn.simpleicons.org/jupyter" title="Jupyter">
+  <img height="30" src="https://cdn.simpleicons.org/jupyter" title="Jupyter">
 </a>
 <a href="https://github.com/" target="_blank">
-  <img height="40" src="https://cdn.simpleicons.org/github/white" title="GitHub">
+  <img height="30" src="https://cdn.simpleicons.org/github/white" title="GitHub">
 </a>
 <a href="https://numpy.org/" target="_blank">
-  <img height="40" src="https://cdn.simpleicons.org/numpy" title="NumPy">
+  <img height="30" src="https://cdn.simpleicons.org/numpy" title="NumPy">
 </a>
 <a href="https://scipy.org/" target="_blank">
-  <img height="40" src="https://cdn.simpleicons.org/scipy" title="SciPy">
+  <img height="30" src="https://cdn.simpleicons.org/scipy" title="SciPy">
 </a>
 <a href="https://pandas.pydata.org/" target="_blank">
-  <img height="40" src="https://cdn.simpleicons.org/pandas" title="Pandas">
+  <img height="30" src="https://cdn.simpleicons.org/pandas" title="Pandas">
 </a>
   <a href="https://pandas.pydata.org/" target="_blank">
-  <img height="40" src="https://cdn.simpleicons.org/vim" title="VIM">
+  <img height="30" src="https://cdn.simpleicons.org/vim" title="VIM">
 </a>
 </div><br/><br/>
