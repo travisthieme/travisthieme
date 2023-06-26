@@ -12,11 +12,11 @@
 - **Current Position:** Ph.D. Student at National Tsing Hua University
 - **Research Interests:** Star and Planet Formation
 
-## 🔎 Featured Publications
+## 📃 Featured First-Author Publications
 - **[Accretion Flows or Outflow Cavities? Uncovering the Gas Dynamics around Lupus 3-MMS](https://iopscience.iop.org/article/10.3847/1538-4357/ac382b)**\
   <sup>The Astrophysical Journal, Volume 925, Issue 1, id.32, 18 pp. (January 2022)<sup>
 
-## 🏛️ Current Affiliations
+## 🏛️ Current Affiliations and Collaborations
 <a href="http://www.astr.nthu.edu.tw/?Lang=en" target="_blank"><img height="80" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/NTHU_Round_Seal.svg/2560px-NTHU_Round_Seal.svg.png" title="NTHU"></a>&emsp;
 
 ## 🛠️ Languages and Tools
