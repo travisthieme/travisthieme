@@ -12,3 +12,27 @@
 - **Current Position:** Ph.D. Student at National Tsing Hua University
 - **Research Interests:** Star and Planet Formation
 
+## 🛠️ Languages and Tools
+<div style="height: fit-content; padding-top: 5px">
+<a href="https://python.org/" target="_blank">
+  <img height="30" src="https://cdn.simpleicons.org/python" title="Python">
+</a>
+<a href="https://www.latex-project.org/" target="_blank">
+  <img height="30" src="https://cdn.simpleicons.org/latex" title="LaTeX">
+</a>
+<a href="https://jupyter.org/" target="_blank">
+  <img height="30" src="https://cdn.simpleicons.org/jupyter" title="Jupyter">
+</a>
+<a href="https://github.com/" target="_blank">
+  <img height="30" src="https://cdn.simpleicons.org/github/484545" title="GitHub">
+</a>
+<a href="https://numpy.org/" target="_blank">
+  <img height="32" src="https://numpy.org/images/logo.svg" title="NumPy">
+</a>
+<a href="https://scipy.org/" target="_blank">
+  <img height="30" src="https://cdn.simpleicons.org/scipy/0054a6" title="SciPy">
+</a>
+<a href="https://pandas.pydata.org/" target="_blank">
+  <img height="30" src="https://cdn.simpleicons.org/pandas/2A08B0" title="Pandas">
+</a>
+</div><br/><br/>
