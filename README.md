@@ -9,7 +9,6 @@
 [![Static Badge](https://img.shields.io/badge/NASA_ADS-First_Author_Papers-grey?style=flat-square&logo=internetarchive&logoColor=white&labelColor=blue)](https://ui.adsabs.harvard.edu/search/filter_property_fq_property=AND&filter_property_fq_property=property%3A%22refereed%22&fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq=%7B!type%3Daqp%20v%3D%24fq_property%7D&fq_database=(database%3Aastronomy)&fq_property=(property%3A%22refereed%22)&q=%20%20author%3A%22%5EThieme%2C%20Travis%20J.%22&sort=date%20desc%2C%20bibcode%20desc&p_=0)
 
 ## ℹ️ About Me
-
 - **Current Position:** Ph.D. Student at National Tsing Hua University
 - **Research Interests:** Star and Planet Formation
 
