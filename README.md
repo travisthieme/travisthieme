@@ -10,7 +10,7 @@
 
 ## ℹ️ About Me
 - **Current Position:** Ph.D. Student at National Tsing Hua University
-- **Research Interests:** Star and Planet Formation
+- **Research Interests:** Star and Planet Formation, Astrochemistry, Radio Astronomy
 
 ## 📃 Featured Publications
 - **[Accretion Flows or Outflow Cavities? Uncovering the Gas Dynamics around Lupus 3-MMS](https://iopscience.iop.org/article/10.3847/1538-4357/ac382b)**\
