@@ -17,7 +17,8 @@
   <sup>Thieme et al. 2022, The Astrophysical Journal, Volume 925, Issue 1, id.32, 18 pp.<sup>
 
 ## 🏛️ Current Affiliations 
-<a href="http://www.astr.nthu.edu.tw/?Lang=en" target="_blank"><img height="120" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/NTHU_Round_Seal.svg/2560px-NTHU_Round_Seal.svg.png" title="NTHU"></a>&emsp;
+<a href="http://www.astr.nthu.edu.tw/?Lang=en" target="_blank"><img height="120" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/NTHU_Round_Seal.svg/2560px-NTHU_Round_Seal.svg.png" title="NTHU"></a> &emsp;
+
 
 ## 🛠️ Languages and Tools
 <div style="height: fit-content; padding-top: 5px">
