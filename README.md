@@ -1,6 +1,6 @@
 <h1 align="left"> 📡 Welcome to my GitHub!</h1>
 
-[![Static Badge](https://img.shields.io/badge/ORCID-0000--0003--0334--1583-A6CE39?style=for-the-badge&logo=orcid&logoColor=white&labelColor=A6CE39)](https://orcid.org/0000-0003-0334-1583)
+[![Static Badge](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white&labelColor=A6CE39)](https://orcid.org/0000-0003-0334-1583)
 [![Static Badge](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?view_op=list_works&hl=en&authuser=1&hl=en&user=-O09TCUAAAAJ&authuser=1)
 [![Static Badge](https://img.shields.io/badge/Research_Gate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Travis-Thieme)
 [![Static Badge](https://img.shields.io/badge/Semantic_Scholar-005A9C?style=for-the-badge&logo=semanticscholar&logoColor=white)](https://www.semanticscholar.org/author/Travis-J.-Thieme/2139710556)
