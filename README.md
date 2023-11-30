@@ -13,7 +13,7 @@
 - **Research Interests:** Star and Planet Formation, Astrochemistry, Radio Astronomy
 
 ## 📃 Featured Publications
-- **[Early Planet Formation in Embedded Disks (eDisk). VIII. A Small Protostellar Disk around the Extremely Low-Mass and Young Class 0 Protostar, IRAS 15398-3359](https://iopscience.iop.org/)**\
+- **[Early Planet Formation in Embedded Disks (eDisk). VIII. A Small Protostellar Disk around the Extremely Low-Mass and Young Class 0 Protostar, IRAS 15398-3359](https://iopscience.iop.org/article/10.3847/1538-4357/ad003a)**\
   <sup>Thieme et al. 2023, The Astrophysical Journal, Accepted. [[ADS](https://ui.adsabs.harvard.edu/abs/2023arXiv231012453T/abstract)] [[arXiv](https://arxiv.org/abs/2310.12453)]</sup>
 - **[Accretion Flows or Outflow Cavities? Uncovering the Gas Dynamics around Lupus 3-MMS](https://iopscience.iop.org/article/10.3847/1538-4357/ac382b)**\
   <sup>Thieme et al. 2022, The Astrophysical Journal, Volume 925, Issue 1, id.32, 18 pp. [[ADS](https://ui.adsabs.harvard.edu/abs/2022ApJ...925...32T/abstract)] [[arXiv](https://arxiv.org/abs/2111.04001)]</sup>
