@@ -9,8 +9,8 @@
 [![Static Badge](https://img.shields.io/badge/NASA_ADS-First_Author_Publications-878787?style=for-the-badge&logo=internetarchive&logoColor=white&labelColor=2f79e6)](https://ui.adsabs.harvard.edu/search/filter_property_fq_property=AND&filter_property_fq_property=property%3A%22refereed%22&fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq=%7B!type%3Daqp%20v%3D%24fq_property%7D&fq_database=(database%3Aastronomy)&fq_property=(property%3A%22refereed%22)&q=%20%20author%3A%22%5EThieme%2C%20Travis%20J.%22&sort=date%20desc%2C%20bibcode%20desc&p_=0)
 
 ## ℹ️ About Me
-- **Current Position:** Ph.D. Student at National Tsing Hua University
-- **Research Interests:** Star and Planet Formation, Astrochemistry, Radio Astronomy
+- **Current Position:** Post-Doctoral Research Fellow at Academia Sinica Institute of Astronomy and Astrophysics (ASIAA)
+- **Research Interests:** Star and Planet Formation, Protostellar Disk Formation and Evolution, Astrochemistry, Radio Astronomy
 
 ## 📃 Featured Publications
 - **[Early Planet Formation in Embedded Disks (eDisk). VIII. A Small Protostellar Disk around the Extremely Low-Mass and Young Class 0 Protostar, IRAS 15398-3359](https://iopscience.iop.org/article/10.3847/1538-4357/ad003a)**\
