@@ -18,9 +18,8 @@
 - **[Accretion Flows or Outflow Cavities? Uncovering the Gas Dynamics around Lupus 3-MMS](https://iopscience.iop.org/article/10.3847/1538-4357/ac382b)**\
   <sup>Thieme et al. 2022, The Astrophysical Journal, Volume 925, Issue 1, id.32, 18 pp. [[ADS](https://ui.adsabs.harvard.edu/abs/2022ApJ...925...32T/abstract)] [[arXiv](https://arxiv.org/abs/2111.04001)]</sup>
 
-## 🏛️ Current Affiliations 
-<a href="http://www.astr.nthu.edu.tw/?Lang=en" target="_blank"><img height="120" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/NTHU_Round_Seal.svg/2560px-NTHU_Round_Seal.svg.png" title="NTHU"></a> &emsp;
-
+[//]: # (## 🏛️ Current Affiliations)
+[//]: # (<a href="http://www.astr.nthu.edu.tw/?Lang=en" target="_blank"><img height="120" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/NTHU_Round_Seal.svg/2560px-NTHU_Round_Seal.svg.png" title="NTHU"></a> &emsp;)
 
 ## 🛠️ Languages and Tools
 <div style="height: fit-content; padding-top: 5px">
