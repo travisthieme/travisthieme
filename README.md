@@ -13,6 +13,8 @@
 - **Research Interests:** Star and Planet Formation, Protostellar Disk Formation and Evolution, Astrochemistry, Radio Astronomy
 
 ## 📃 Featured Publications
+- **[The First Estimation of the Ambipolar Diffusivity Coefficient from Multi-Scale Observations of the Class 0/I Protostar, HOPS-370](https://iopscience.iop.org/)**\
+  <sup>Thieme et al. 2024, The Astrophysical Journal, Accepted. [[ADS](https://ui.adsabs.harvard.edu/abs/2024arXiv240416668T/abstract)] [[arXiv](https://arxiv.org/abs/2404.16668)]</sup>
 - **[Early Planet Formation in Embedded Disks (eDisk). VIII. A Small Protostellar Disk around the Extremely Low-Mass and Young Class 0 Protostar, IRAS 15398-3359](https://iopscience.iop.org/article/10.3847/1538-4357/ad003a)**\
   <sup>Thieme et al. 2023, The Astrophysical Journal, Volume 958, Issue 1, id.60, 22 pp. [[ADS](https://ui.adsabs.harvard.edu/abs/2023arXiv231012453T/abstract)] [[arXiv](https://arxiv.org/abs/2310.12453)]</sup>
 - **[Accretion Flows or Outflow Cavities? Uncovering the Gas Dynamics around Lupus 3-MMS](https://iopscience.iop.org/article/10.3847/1538-4357/ac382b)**\
